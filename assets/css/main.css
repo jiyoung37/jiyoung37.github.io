@@ -2037,7 +2037,12 @@ input, select, textarea {
 		}
 
 /* Image */
-
+	.project-img{
+		width: 100%;
+  		height: 165px;
+  		object-fit: cover;
+  		border-radius: 8px;
+	}
 	.image {
 		border-radius: 0.35em;
 		border: 0;
